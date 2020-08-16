@@ -190,6 +190,7 @@ p {
     padding: 1rem;
     border-radius: 50%;
     margin-bottom: 1rem;
+    margin-right: 1rem;
 }
 
 /* Section: Бид хэн бэ? */
@@ -224,7 +225,7 @@ p {
     display: flex;
 }
 
-#contact .map, #contact-form {
+#contact .map, .contact-form {
     flex:1;
 }
 
